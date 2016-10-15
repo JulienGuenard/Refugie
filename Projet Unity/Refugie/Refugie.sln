@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A8472E0B-9A8F-F806-B434-BF6A1D136A66}") = "Refugie", "Assembly-CSharp.csproj", "{78D09B56-A7A2-6E07-3075-0058226E65FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D09B56-A7A2-6E07-3075-0058226E65FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D09B56-A7A2-6E07-3075-0058226E65FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D09B56-A7A2-6E07-3075-0058226E65FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D09B56-A7A2-6E07-3075-0058226E65FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
